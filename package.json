@@ -1,4 +1,9 @@
 {
+  "author": "Ben Hutchison",
+  "description": "a project to better understand npm",
+  "keywords": ["freecodecamp", "training"],
+  "license": "MIT",
+  "version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
